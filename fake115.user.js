@@ -21,7 +21,7 @@
 // @require      https://raw.github.com/kkHAIKE/fake115/master/fec115.min.js
 // @require      https://cdn.bootcss.com/jsSHA/2.3.1/sha1.js
 // @require      https://raw.github.com/pierrec/js-xxhash/master/build/xxhash.min.js
-// @require      https://raw.github.com/omichelsen/compare-versions/master/index.js
+// @require      https://raw.githubusercontent.com/omichelsen/compare-versions/codecov/index.js
 // @run-at       document-start
 // ==/UserScript==
 (function() {
